@@ -1,13 +1,13 @@
 [
   {
-    "internalName": "hijack-customize-pluginhub",
-    "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
-    "size": 2221,
+    "internalName": "achachi-pktools-rec",
+    "hash": "1ad1be285f9176928b582b6a840de1c8fcaf79e2aac3b2ea6a5221485dcef6d4",
+    "size": 60031,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "pktools-plugin"
     ],
-    "displayName": "HiJack Customize PluginHub",
+    "displayName": "PlayerTickler",
     "description": "",
-    "provider": "arnah"
+    "provider": "WhoCares"
   }
 ]
