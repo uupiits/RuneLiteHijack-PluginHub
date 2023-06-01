@@ -1,10 +1,10 @@
 [
   {
-    "internalName": "achachi-pktools-rec",
+    "internalName": "net.storm.plugins.pktools.PkToolsPlugin",
     "hash": "1ad1be285f9176928b582b6a840de1c8fcaf79e2aac3b2ea6a5221485dcef6d4",
     "size": 60031,
     "plugins": [
-      "net.storm.plugins.pktools.PkToolsPlugin"
+      "achachi-pktools-rec"
     ],
     "displayName": "PlayerTickler",
     "description": "",
